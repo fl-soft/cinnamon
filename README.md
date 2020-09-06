@@ -1,2 +1,2 @@
 # cinnamon
-Cinnamon caft sample website
+Cinnamon cafe sample website
