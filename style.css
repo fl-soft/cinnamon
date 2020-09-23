@@ -58,3 +58,25 @@ body {
     cursor: pointer !important;
 }
 
+#carousel1 {
+    box-shadow: darkgray 0 0 10px;
+}
+.header-text {
+    font-family: qlassik;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    white-space: nowrap;
+    padding-right: 8px;
+}
+.header-line {
+    width: 100%;
+    background: url("images/specials-box-bg.png") repeat-x 0 17px;
+}
+.meal-title {
+    font-family: qlassik;
+}
+.price {
+    font-family: qlassik;
+    font-size: 1.3rem;
+    color: #a7695e;
+}
