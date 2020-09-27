@@ -80,3 +80,22 @@ body {
     font-size: 1.3rem;
     color: #a7695e;
 }
+ul.bullet li {
+    background: url("images/bullet.png") no-repeat 0 9px;
+    padding-left: 20px;
+    line-height: 2em;
+    list-style: none;
+    display: block;
+}
+ul.bullet {
+    padding:0;
+}
+.gallery  {
+    text-align: center;
+}
+.thumb {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    box-shadow: darkgray 0 0 10px;
+
+}
