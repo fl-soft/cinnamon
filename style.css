@@ -99,3 +99,15 @@ ul.bullet {
     box-shadow: darkgray 0 0 10px;
 
 }
+.quote {
+    font-style: italic;
+}
+.subtitle {
+    color:  #a7695e;
+    font-size: 1.05rem;
+    text-transform: uppercase;
+
+}
+footer p {
+    text-align: center;
+}
